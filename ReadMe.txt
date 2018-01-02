@@ -5,6 +5,8 @@ Version 1.0.0.0
 EC
 ---------------
 
+pieter
+
 --Purpose of service.
 
 Planet is alive.
@@ -13,6 +15,8 @@ Keep the planet alive.
 But in the same breath also make a profit by inter stellar trading 
 with near by planets.
 
+
+test
 
 
 
