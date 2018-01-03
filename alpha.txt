@@ -1,0 +1,12 @@
+.gitignore
+gitIgnore.sh
+gitIgnoreUntrackedFiles.sh
+t.txt
+AlmostRoses
+BrightStar
+Fox
+Hound
+Prima
+Prism
+Sun
+Moon
