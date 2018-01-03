@@ -1,0 +1,3 @@
+[submodule "dbConnector"]
+	path = dbConnector
+	url = https://github.com/EricCronje/DbConnector.git
